@@ -1,0 +1,1 @@
+/home/vlad/IdeaProjects/Lesson1/HellowWorld/build/classes/kotlin/main/ru/vladshilov/lesson1/Contract.class:/home/vlad/IdeaProjects/Lesson1/HellowWorld/build/classes/kotlin/main/ru/vladshilov/lesson1/MainKt.class
